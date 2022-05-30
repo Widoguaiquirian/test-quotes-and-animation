@@ -1,0 +1,54 @@
+      <!-- GRID-->
+
+      <div class="template">
+        <div class="grid"></div>
+        <div class="glutter"></div>
+        <div class="grid"></div>
+        <div class="glutter"></div>
+        <div class="grid"></div>
+        <div class="glutter"></div>
+        <div class="grid"></div>
+        <div class="glutter"></div>
+        <div class="grid"></div>
+        <div class="glutter"></div>
+        <div class="grid"></div>
+        <div class="glutter"></div>
+        <div class="grid"></div>
+        <div class="glutter"></div>
+        <div class="grid"></div>
+        <div class="glutter"></div>
+        <div class="grid"></div>
+        <div class="glutter"></div>
+        <div class="grid"></div>
+        <div class="glutter"></div>
+        <div class="grid"></div>
+        <div class="glutter"></div>
+        <div class="grid"></div>
+      </div
+
+/*///////////////////////GRID
+
+.template{
+  position: absolute;
+  width: 1180px;
+  height: 2465px;
+  opacity: 0.11;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.grid{
+  float:left;
+  background-color: red;
+  width: 80px;
+  height: 2465px;
+}
+
+.glutter {
+  float:left;
+  background-color: blue;
+  width: 20px;
+  height: 2465px;
+}
+
+/*TERMINA GRID///////////////////////////*/
